@@ -64,10 +64,17 @@ Taux de churn estimé à ~63% en Californie — investigation locale requise.
 - **CSV** — source de données brutes
 
 ## 📸 Aperçu du dashboard
-<!-- Ajoute tes captures d'écran ici -->
+### Vue générale & KPIs
 ![Overview](screenshots/overview.png)
-![Churn par contrat](screenshots/contrats.png)
+
+### Causes du churn
+![Churn Catégories](screenshots/churn_categories.png)
+
+### Analyse démographique
 ![Démographie](screenshots/demographie.png)
+
+### Analyse contractuelle
+![Contrats](screenshots/contrats.png)
 
 ## 👤 Auteur
 **Haroun Elias**
